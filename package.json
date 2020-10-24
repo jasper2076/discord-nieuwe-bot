@@ -1,0 +1,20 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./myScript.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "yt",
+    "discord"
+  ],
+  "author": "Dris",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.0"
+  }
+}
